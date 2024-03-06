@@ -1,0 +1,9 @@
+h1{
+    border: 2px solid navy;
+}
+h2,h3{
+    background-color:palevioletred;
+}
+body{
+    background-color: blanchedalmond;
+}
